@@ -1,0 +1,21 @@
+PLAY MELHOR PONTE
+=================
+
+Jogue seu PlayStation 5 / PlayStation 4 no PC (Remote Play).
+
+COMO USAR
+1. Abra "Play Melhor Ponte.exe".
+   Se a janela ficar branca, use "Play Melhor Ponte (modo compatibilidade).bat".
+2. Deixe o console ligado na mesma rede do PC.
+3. Clique no console, faça login na PSN quando pedir e digite o PIN de
+   Configurações > Sistema > Reprodução Remota > Vincular Dispositivo.
+4. Clique duas vezes no console para jogar.
+
+CRÉDITOS E LICENÇA
+O Play Melhor Ponte é uma versão personalizada pela Melhor Ponte do
+chiaki-ng (Street Pea e colaboradores), que é um fork do Chiaki (Florian Markl).
+É software livre sob a licença GNU AGPL v3 (veja LICENCA-AGPLv3.txt).
+Código-fonte completo desta versão: SEU_REPOSITORIO
+
+PlayStation, PS5 e PS4 são marcas da Sony Interactive Entertainment.
+Este programa não é afiliado nem endossado pela Sony.
